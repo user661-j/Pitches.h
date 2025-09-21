@@ -1,0 +1,28 @@
+{
+  "name": "arduino_pitches.h",
+  "version": "1.0.0",
+  "keywords": "pitches, notes, tone, buzzer",
+  "description": "Una biblioteca de cabecera con las frecuencias de notas musicales para usar con la función tone().",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/user661-j/arduino_pitches.h.git"
+  },
+  "authors": [user661
+    {
+      "name": "user661"
+    }
+  ],
+  "frameworks": "arduino",
+  "platforms": "*",
+  "examples": "examples/*/*.ino",
+  "export": {
+    "include": [
+      "src/pitches.h"
+    ]
+  },
+  "build": {
+    "srcFilter": [
+      "+<src/>"
+    ]
+  }
+}
