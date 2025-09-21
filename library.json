@@ -5,7 +5,7 @@
   "description": "Una biblioteca de cabecera con las frecuencias de notas musicales para usar con la función tone().",
   "repository": {
     "type": "git",
-    "url": "https://github.com/user661-j/arduino_pitches.h.git"
+    "url": "https://github.com/user661-j/Pitches.h.git"
   },
   "authors": [user661
     {
@@ -27,3 +27,4 @@
   }
 
 }
+
