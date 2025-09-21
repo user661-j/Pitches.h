@@ -1,5 +1,5 @@
 {
-  "name": "arduino_pitches.h",
+  "name": "pitches.h",
   "version": "1.0.0",
   "keywords": "pitches, notes, tone, buzzer",
   "description": "Una biblioteca de cabecera con las frecuencias de notas musicales para usar con la función tone().",
@@ -25,4 +25,5 @@
       "+<src/>"
     ]
   }
+
 }
