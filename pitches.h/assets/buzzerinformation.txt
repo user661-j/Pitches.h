@@ -1,9 +1,0 @@
-Un buzzer pasivo es un componente electrónico que produce un sonido cuando se le aplica una señal eléctrica. A diferencia de un buzzer activo, no genera su propio tono internamente. Necesita una señal de onda cuadrada con una frecuencia específica para crear un sonido.
-
-Para usarlo, debes proporcionarle una señal de control desde un microcontrolador, como un Arduino. La frecuencia de la señal determinará el tono del sonido (una frecuencia más alta produce un tono más agudo), mientras que el tiempo que la señal está activa controlará la duración del sonido.
-
----
-
-### ¿Cómo funciona?
-
-Un buzzer pasivo contiene un transductor piezoeléctrico. Cuando se le aplica una señal eléctrica, el material piezoeléctrico vibra. Estas vibraciones mueven el aire a su alrededor, lo que produce el sonido que podemos oír. Al controlar la frecuencia de esta vibración, puedes generar una variedad de tonos, lo que te permite reproducir melodías o diferentes tipos de sonidos de alerta.
